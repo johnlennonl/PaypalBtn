@@ -83,8 +83,11 @@ Abre index.html en tu navegador o usa Live Server en VSCode.
 ✅ El archivo .env está en .gitignore, por lo que no se sube a GitHub.
 ✅ El SDK de PayPal se carga dinámicamente desde el backend.
 📌 Créditos y Contacto
-Desarrollado por [Tu Nombre o Usuario] 🚀
+Desarrollado por [Johnlennonl] 🚀
 Si tienes dudas o sugerencias, contáctame. 😃
+📧   Jojopow2410@gmail.com 
+
+
 
 ```bash
    Este formato es adecuado para Markdown, utilizando una lista numerada y añadiendo explicaciones claras y concisas para cada paso. ¡Espero que te sirva!
